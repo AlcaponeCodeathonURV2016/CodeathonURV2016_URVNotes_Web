@@ -6,7 +6,7 @@
 
 	.imatge-header{
 		background: url('../../images/urv.jpg');
-		height: 170px;
+		height: 670px;
 		width: 100%;
 		position: absolute;
 	    background-size: cover;
@@ -3206,7 +3206,7 @@
 /* Main */
 
 	#main {
-		
+
 		-moz-flex-grow: 1;
 		-webkit-flex-grow: 1;
 		-ms-flex-grow: 1;
@@ -3443,4 +3443,3 @@
 			}
 
 		}
-
