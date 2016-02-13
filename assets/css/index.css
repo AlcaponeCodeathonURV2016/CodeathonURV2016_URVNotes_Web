@@ -2,3 +2,50 @@
   text-align: center;
   padding-bottom: 1em;
 }
+
+.article-cerca {
+  text-align: center;
+  margin-bottom: 1em;
+}
+.article-cerca > input {
+  border-color: #8c1f30;
+}
+
+.demana-apunts {
+    text-align: center;
+}
+.demanar-form {
+  margin-top: 30px;
+}
+.demanar-form > div > input {
+  border-color: #8c1f30;
+}
+.boto {
+  border: 1px solid #8c1f30;
+  color: #8c1f30;
+  padding: 5px 25px;
+  margin-top: 30px;
+  display: inline-block;
+}
+.boto:hover {
+  padding: 5px 25px;
+  display: inline-block;
+  color: white;
+  background-color: #8c1f30;
+  cursor: pointer;
+}
+
+.mostra-mes {
+  text-align: center;
+  margin-bottom: 1em;
+}
+
+.teva-app {
+  margin-top: 10em;
+  margin-bottom: 10em;
+  text-align: center;
+}
+
+.post {
+  background-color: rgba(255, 255, 255, 0.9);
+}
