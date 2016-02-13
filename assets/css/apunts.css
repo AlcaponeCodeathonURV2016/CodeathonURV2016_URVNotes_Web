@@ -1,0 +1,35 @@
+.likes {
+  color: green;
+}
+.dislikes {
+  color: red;
+}
+.stats {
+  font-size: 20px;
+}
+
+.stars > a {
+  margin-right: 5px;
+}
+.stars > a:hover {
+  cursor: pointer;
+}
+
+.comment {
+  padding: 1em;
+  border: 1px solid #eee;
+}
+
+.comments {
+  border-top: 1px solid #ccc;
+}
+.comments > h2 {
+  margin-top: 1em;
+}
+
+#sidebar > * {
+  margin: 0;
+}
+#sidebar {
+  margin-top: 3em;
+}
