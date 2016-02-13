@@ -5,9 +5,13 @@
 /*Custom CSS*/
 
 	.imatge-header{
-		border-radius: 8px;
-		width: 931.344px;
-		height: 378px;
+		background: url('../../images/urv.jpg');
+		height: 170px;
+		width: 100%;
+		position: absolute;
+	    background-size: cover;
+	    background-repeat: no-repeat;
+	    background-position: center;
 	}
 /* Reset */
 
@@ -2579,6 +2583,7 @@
 		margin: 0 0 3em 0;
 		position: relative;
 		overflow: hidden;
+		margin-top: 55px;
 	}
 
 		.post > header {
