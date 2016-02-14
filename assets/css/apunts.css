@@ -70,3 +70,7 @@
   margin-top: 20px;
   border-color: #8c1f30;
 }
+
+textarea {
+  resize: none;
+}
